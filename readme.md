@@ -8,7 +8,10 @@ This repository is to provide the code to the viewers of the tutorial serise bei
 Sample setup project 
 
 ### HelloWorld
-HelloWorld text exampl
+HelloWorld text example.
 
 ### Adding motion
 Moving ellipse with changing in colour with time.
+
+### Keyboard input
+Moving ractange according to keybaord arrow button inputs.
