@@ -14,4 +14,7 @@ HelloWorld text example.
 Moving ellipse with changing in colour with time.
 
 ### Keyboard input
-Moving ractange according to keybaord arrow button inputs.
+Moving rectangle according to keybaord arrow button inputs.
+
+### Mpuse input
+Moving rectangle with mouse
