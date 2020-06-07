@@ -16,5 +16,8 @@ Moving ellipse with changing in colour with time.
 ### Keyboard input
 Moving rectangle according to keybaord arrow button inputs.
 
-### Mpuse input
-Moving rectangle with mouse
+### Mouse input
+Moving rectangle with mouse.
+
+### Add sound
+Prototype supports sound. This examples shows how you can trigger sound on event with example of key-press.
