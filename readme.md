@@ -21,3 +21,6 @@ Moving rectangle with mouse.
 
 ### Add sound
 Prototype supports sound. This examples shows how you can trigger sound on event with example of key-press.
+
+### Add png image
+Add png image to stage.
