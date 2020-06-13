@@ -24,3 +24,6 @@ Prototype supports sound. This examples shows how you can trigger sound on event
 
 ### Add png image
 Add png image to stage.
+
+### Scale and rotate png
+You can scale and rotate png. See the example.
